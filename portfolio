@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html><head>
+<title>portfolio</title>
+</head>
+<body style="border:3px solid red; background-color:#00FF00">
+<center><h1><u>MY PORTFOLIO</u></h1></center>
+<section>
+<center><h3><font color="#FF0000">PROFILE PHOTO:</font></h3></center>
+</section>
+<center><img src="portfolio_files/image.jpg" width="300" height="200"></center>
+<section>
+<center><h3><font color="0000FF">PERSONAL DETAILS:</font></h3></center>
+<center>
+<h4>NAME:BALASANI HARISH KUMAR</h4>
+<h4>AGE:19</h4>
+<h4>DATE OF BIRTH:25-04-2003</h4>
+<h4>VILLAGE:RAMULAPALLE,KAMANPUR</h4>
+<h4>DISTRICT:KARIMNAGAR</h4>
+</center>
+</section>
+
+<section>
+<center><h3><font color="#bf00ff">EDUCATION:</font></h3></center>
+<center>
+<table cellspacing="6" cellpadding="7" border="1">
+<tbody><tr>
+<th>
+CLASS<br>
+</th>
+<th>
+PLACE OF STUDY<br>
+</th>
+<th>
+YEAR OF COMPLETION
+</th>
+</tr>
+<tr>
+<td>
+10
+</td>
+<td>
+MODEL SCHOOL 
+</td>
+<td>
+2019
+</td>
+</tr>
+<tr>
+<td>
+PUC
+</td>
+<td>
+RGUKT BASAR
+</td>
+<td>
+2021
+</td>
+</tr>
+<tr>
+<td>
+B-TECH
+</td>
+<td>
+RGUKT BASAR
+</td>
+<td>
+CURRENTLY PURSUING
+</td>
+</tr>	
+</tbody></table>
+</center>
+</section>
+<section>
+<h3><font color="#DC143C"></font><center><font color="#DC143C">SKILLS:</font></center></h3>
+<ol>
+<center>
+<p>
+C PROGRAMMING LANGUAGE,
+C++ PROGRAMMING LANGUAGE,
+HTML,CSS,
+LEARNING DATA STRUCTURES AND ALGORITHMS.
+</p>
+</center>
+<section>
+<h3><font color="#800000"><center>CAN CONTACT ME AT:</center></font></h3>
+<center><img src="portfolio_files/imagef.jpeg" width="300" height="200"></center>
+</section>
+<section>
+<h2><font color="#0000FF"></font><center><font color="#0000FF">OPEN TO WORK,HAPPY TO RECIEVE ANY BEGINNER ROLES.</font></center></h2>
+</section>
+
+</ol></section></body></html>
